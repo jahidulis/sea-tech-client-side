@@ -1,0 +1,44 @@
+[
+    {
+        "name": "SEA TECH 1TB 3.5 PURPLE WD10PURX",
+        "price": 4180,
+        "availableQuantity": 1000,
+        "description": "It is developed specifically for surveillance security systems. It offers us reduced video frame loss. Tuned for write-intensive, low bit-rate, high stream-count applications typical to most surveillance applications. Moreover, it prioritizes write-operations for maximized surveillance performance. Besides, Western Digital HDD gives the TLER & ATA streaming support, including support for up to eight drives.",
+        "img": "https://i.ibb.co/crBTzpZ/p1.jpg"
+    },
+    {
+        "name": "SEA TECH Eco 550M V2 BR",
+        "price": 5600,
+        "availableQuantity": 800,
+        "description": "550W Continuous Power - Guaranteed 550W of Continuous Power 80 PLUS® BRONZE certified - Up to 88% efficient, to reduce your electricity bill High Current Rails - 2 +12V rails with high load capabilities ensure maximum High Current Rails - 2 +12V rails with high load capabilities ensure maximum",
+        "img": "https://i.ibb.co/HYFfKyF/p2.jpg"
+    },
+    {
+        "name": "SEA TECH GTX1050Ti 4G-V",
+        "price": 17500,
+        "availableQuantity": 1200,
+        "description": "GTX1050Ti 4G-V Comes with 4Gb capacity. This graphics card designed with Dual Fans, compact size, and a New Appearance Design. Benefiting from Turing architecture, amazing performance can be gained in games requiring higher needs. The Colorful Graphics card featured with Manufacturing Process 14nm, CUDA Cores 768, Core Clock 1290Mhz, Memory Clock 7000Mhz, Memory Bus Width 128bit, Memory Type GDDR5, Power Connector 6pin, TDP 75W.",
+        "img": "https://i.ibb.co/rGHFh98/p3.jpg"
+    },
+    {
+        "name": "SEA TECH Halo FX-120",
+        "price": 300,
+        "availableQuantity": 3000,
+        "description": "The PCcooler Halo FX-120 120mm Case Fan has a maximum speed of 1400 RPM. It comes with 4-Pin PMW. It delivers a maximum airflow of 45.18CFM and has a static pressure of 2.15mmH2O. It features 8~26.5dB(A) noise level. It has Hydraulic Bearing. The PCcooler Halo FX-120 comes with no warranty.",
+        "img": "https://i.ibb.co/Fbdb9Sy/p4.jpg"
+    },
+    {
+        "name": "SEA TECH Panther Golden 4GB DDR4 2666MHZ Desktop RAM",
+        "price": 2750,
+        "availableQuantity": 2000,
+        "description": "Panther Golden 4GB DDR4 2666MHZ RAM has a high level of compatibility. It is backward compatible with Intel and AMD series systems. This pattern is in the shape of a claw. On top, the unique and clever heat spreader design incorporates the panther's claws. It includes XMP 2.0 overclocking that is simple and easy to use, and it consumes very little power. The Apacer PANTHER-GOLDEN 4GB DDR4 2666MHZ Desktop RAM comes with a Lifetime warranty.",
+        "img": "https://i.ibb.co/jZB4dKJ/p5.jpg"
+    },
+    {
+        "name": "SEA TECH H310M H 8th Gen Micro ATX Motherboard",
+        "price": 7000,
+        "availableQuantity": 800,
+        "description": "H310M H 8th Gen Micro ATX motherboard compatible with Intel (Socket LGA1151) i3, i5 & i7 processor. This 8-Channel HD Audio with High Quality Audio Capacitor board has dual channel DDR4 maximum 32GB memory and it has the capability of Ultra-Fast SATA 6Gb/s connectors and USB 3.1 Gen 1 interface. If we consider the graphics of this Anti-Sulfur Resistors Design board supports Intel HD graphics having the maximum resolution of 4096x2160@30 Hz for HDMI and 1920x1200@60 Hz for D-Sub port. This High Quality Audio Capacitors and Audio board has 3 x PCIe slot, GIGABYTE Exclusive 8118 Gaming LAN with Bandwidth Management,  Smart Fan 5 features Multiple Temperature Sensors and Hybrid Fan Headers with FAN STOP and all new GIGABYTE™ APP Center",
+        "img": "https://i.ibb.co/vwx3Csz/p6.jpg"
+    }
+]
