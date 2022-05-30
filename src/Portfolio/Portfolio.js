@@ -1,6 +1,6 @@
 import React from "react";
 import { Wave } from "react-animated-text";
-import myImage from "../img/275734624_2168528319968208_1773411271327317452_n.jpg";
+import myImage from "../img/hero1.png";
 import aghs from "../img/AGHS (1).jpg";
 import bmarpc from "../img/bmarpc.jpg";
 import uiu from "../img/uiu.jpg";
@@ -20,10 +20,10 @@ const Portfolio = () => {
           </div>
         </div>
         <div className="pt-10 font-serif">
-          <h1 className="text-2xl md:text-5xl">Name: Md. Omar Shahariar</h1>
+          <h1 className="text-2xl md:text-5xl">Name: Jahidul Islam</h1>
           <h1 className=" text-2xl md:text-5xl py-4">(Web Developer)</h1>
           <h1 className=" text-base md:text-2xl ">
-            Email: osafridi00@gmail.com
+            Email: jahidulislam.exm@gmail.com
           </h1>
         </div>
       </div>
@@ -44,7 +44,7 @@ const Portfolio = () => {
               </div>
               <div>
                 <h1 className="text-center text-xs sm:text-lg pt-5 font-serif font-bold">
-                  United International University
+                  Weifang University 
                 </h1>
                 <h1 className="font-serif">(2021)</h1>
                 <h1 className="font-serif font-bold">BSc. in CSE</h1>
@@ -62,9 +62,9 @@ const Portfolio = () => {
               </div>
               <div>
                 <h1 className="text-center text-xs sm:text-lg pt-5 font-serif font-bold">
-                  Armanitola Govt High School
+                  Hatey khari SCHOOl
                 </h1>
-                <h1 className="font-serif">(2014)</h1>
+                <h1 className="font-serif">(2013)</h1>
                 <h1 className="font-serif font-bold">GPA: 5.00</h1>
               </div>
             </div>
@@ -85,9 +85,9 @@ const Portfolio = () => {
               </div>
               <div>
                 <h1 className="text-center text-xs sm:text-lg pt-5 font-serif font-bold">
-                  BirShrestha Minshi Abdur Rouf
+                  BirShrestha Munshi Abdur Rouf
                 </h1>
-                <h1 className="font-serif">(2016)</h1>
+                <h1 className="font-serif">(2015)</h1>
                 <h1 className="font-serif font-bold">GPA: 5.00</h1>
               </div>
             </div>
@@ -254,7 +254,7 @@ const Portfolio = () => {
             </figure>
             <div class="card-body">
               <h2 class="card-title text-primary font-serif">
-                Jummon Community Center
+              Thomas Convention Center
               </h2>
               <div className="font-serif">
                 <h1>HTML</h1>
@@ -264,7 +264,7 @@ const Portfolio = () => {
               <div class="card-actions justify-end">
                 <a
                   className="btn  btn-primary"
-                  href="https://assignment-3-md-omar-shahariar.netlify.app/"
+                  href="https://convention-center-thomas.netlify.app/"
                   target="_blank"
                 >
                   Live Link
